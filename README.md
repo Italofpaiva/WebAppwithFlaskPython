@@ -14,9 +14,9 @@ Bootstrap
 
 ## Como Executar
 1.Clone este repositório:
-git clone https://github.com/Italofpaiva/WebAppwithFlaskPython.git
+git clone https://github.com/Italofpaiva/WebAppwithFlaskPython.git  
 2. Acesse o projeto:
-cd WebAppwithFlaskPython
+cd WebAppwithFlaskPython  
 3.Crie e ative um ambiente virtual:
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
