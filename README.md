@@ -4,13 +4,13 @@
 Este é um projeto web para acessar, armazenar  e alterar informações sobre jogos e consoles utilizando Python com Flask
 
 ##  Tecnologias Utilizadas
-Python
-Flask
-Mysql
-Html e CSS
-Javascript
-Jquery
-Bootstrap
+Python     
+Flask  
+Mysql  
+Html e CSS  
+Javascript  
+Jquery  
+Bootstrap  
 
 ## Como Executar
 1.Clone este repositório:
