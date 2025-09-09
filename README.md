@@ -1,7 +1,7 @@
 # WebApp with Flask
 
 ## Sobre
-Este é um projeto web para acessar, armazenar  e alterar informações sobre jogos e consoles utilizando Python com Flask, Banco de dados,Html e CSS, Javascript,Jquery e Bootstrap 
+Este é um projeto web para acessar, armazenar  e alterar informações sobre jogos e consoles utilizando Python com Flask
 
 ##  Tecnologias Utilizadas
 Python
